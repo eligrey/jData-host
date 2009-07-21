@@ -1,11 +1,10 @@
+# This .htaccess makes *.html files accessible without
+# their filename extension by using mod_rewrite. It is
+# needed to comply with the pmxdr standard.
+
 RewriteEngine On
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule (.*) $1.html [L,QSA]
-
-RewriteCond %{HTTP:User-Agent} Gecko/
-RewriteCond %{REQUEST_FILENAME} -d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule (.*) /http-index-format_automator.php?dir=%{REQUEST_FILENAME} [L,QSA]
