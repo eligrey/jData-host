@@ -102,6 +102,11 @@ This standard is a list of item names that should be used with jData.
 
 I have also created a reference [Interface Library][2] that can be used with jData.
 
+
+
+![Tracking image](//in.getclicky.com/212712ns.gif =1x1)
+
+
  [1]: http://jdata.eligrey.com/manage.php
  [2]: http://github.com/eligrey/jil#readme
 
