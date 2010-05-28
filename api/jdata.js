@@ -1,8 +1,7 @@
 /*
 jData Host - v0.0.3 - code.eligrey.com/jdata/host/
 @license Dual-licensed GNU GPL v3 and the X11/MIT license
-@author Elijah Grey - www.eligrey.com
-const Contact_Email_Address = ['\x65\x6c\x69\x6a\x61\x68','\x67\x72\x65\x79\x2e\x6e\x61\x6d\x65'].join('\x40');
+@author Eli Grey, http://eligrey.com
 */
 
 // conditional operator statements instead of a lot of if...else statements to make smallest code possible when minified
