@@ -4,6 +4,8 @@ jData Host - v0.0.3 - code.eligrey.com/jdata/host/
 @author Eli Grey, http://eligrey.com
 */
 
+/*! @source http://purl.eligrey.com/github/jData-host/blob/master/api/jdata.js*/
+
 // conditional operator statements instead of a lot of if...else statements to make smallest code possible when minified
 
 var u = 'undefined', f = false, t = true, h = 'trustedHosts', s = typeof localStorage != u ? localStorage : globalStorage[location.hostname], w = 'string';
