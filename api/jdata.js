@@ -1,6 +1,6 @@
 /*
 jData Host - v0.0.3 - code.eligrey.com/jdata/host/
-@license Dual-licensed GNU GPL v3 and the X11/MIT license
+@license X11/MIT
 @author Eli Grey, http://eligrey.com
 */
 
