@@ -104,7 +104,7 @@ I have also created a reference [Interface Library][2] that can be used with jDa
 
 
 
-![Tracking image](//in.getclicky.com/212712ns.gif)
+![Tracking image](https://in.getclicky.com/212712ns.gif)
 
 
  [1]: http://jdata.eligrey.com/manage.php
